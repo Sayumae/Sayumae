@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="65px" max-width="65px" width="65px" align="left"></img>
 
 # Sobre mim :chart_with_upwards_trend:
-![MARINARA](https://img.shields.io/badge/Marinara|28|SP-HOBBIES:PIXEL&UX-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+![MARINARA]([https://img.shields.io/badge/Marinara|28|SP-HOBBIES:PIXEL&UX-F16061?style=for-the-badge&logo=ko-fi&logoColor=white](https://media.licdn.com/dms/image/v2/D4D03AQFbihE2Vi465w/profile-displayphoto-shrink_800_800/B4DZXolpgfHwAc-/0/1743363938956?e=1749686400&v=beta&t=AHgysVU1Yowz136JLjRK_ERTyYqEmM6c5ntzeCEoBwo)
 
 <img src="https://i.ibb.co/c1BfdvX/pixel-background-of-a-home-office-with-light-shining-through-the-window.png" min-width="500" max-width="500" width="500" align="right">
 
