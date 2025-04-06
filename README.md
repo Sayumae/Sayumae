@@ -1,5 +1,5 @@
 # Sobre mim :chart_with_upwards_trend:
-![MARINARA](https://img.shields.io/badge/Marinara|28|SP-HOBBIE:PIXEL_ART-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+![MARINARA](https://img.shields.io/badge/Marinara|28|SP-HOBBY:_PIXEL_ART-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 
 <img src="https://i.ibb.co/c1BfdvX/pixel-background-of-a-home-office-with-light-shining-through-the-window.png" min-width="500" max-width="500" width="500" align="right">
 
